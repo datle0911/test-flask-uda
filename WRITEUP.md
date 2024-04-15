@@ -23,3 +23,12 @@ I chose the web app service because of these reasons:
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 
 Well, I don't make and see this changing in the near future. Because it cost a lot of throrough planning.
+
+### Azure errors
+
+My repo stucked at releasing & launching. Although my github CICD for deployment passed all and logged as successful, I cannot access my app url.
+
+![alt text](/my_images/azure-error-launching.png)
+
+
+![alt text](/my_images/successful-deployment.png)
